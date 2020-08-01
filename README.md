@@ -1,7 +1,7 @@
 rf_cluster
 ==============================
 
-A short description of the project.
+Dataset: https://www.kaggle.com/brunogrisci/breast-cancer-gene-expression-cumida
 
 Project Organization
 ------------
